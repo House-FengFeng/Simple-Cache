@@ -1,10 +1,10 @@
 # Hướng dẫn sử dụng mã nguồn:
 
 ##**Mục Lục:**
-- [Mục đích của bộ mã nguồn](https://github.com/House-FengFeng/Login-AutoIt-PHP/#m%E1%BB%A5c-%C4%91%C3%ADch)
-- [Kiến thức cần thiết để sử dụng](https://github.com/House-FengFeng/Login-AutoIt-PHP/#ki%E1%BA%BFn-th%E1%BB%A9c-c%E1%BA%A7n-thi%E1%BA%BFt)
-- [Hướng dẫn sử dụng](https://github.com/House-FengFeng/Login-AutoIt-PHP#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng)
-- [Tác giả](https://github.com/House-FengFeng/simple-cache/#t%C3%A1c-gi%E1%BA%A3-zhu-jin-feng)
+- [Mục đích của bộ mã nguồn](https://github.com/House-FengFeng/Simple-Cache/#m%E1%BB%A5c-%C4%91%C3%ADch)
+- [Kiến thức cần thiết để sử dụng](https://github.com/House-FengFeng/Silmple-Cache/#ki%E1%BA%BFn-th%E1%BB%A9c-c%E1%BA%A7n-thi%E1%BA%BFt)
+- [Hướng dẫn sử dụng](https://github.com/House-FengFeng/Simple-Cache#h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng)
+- [Tác giả](https://github.com/House-FengFeng/Simple-Cache/#t%C3%A1c-gi%E1%BA%A3-zhu-jin-feng)
 
 ####**Mục đích:**
 - Hỗ trợ cache website cho những người không rành php
