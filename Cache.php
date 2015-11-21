@@ -1,5 +1,10 @@
 <?php
 
+// Name file: Example.php
+// Version: 1.0.0.0
+// Author: Jkey C Phong
+
+
 /* Thay đổi lại khu vực nếu bạn không phải ở Hồ Chí Minh */
 setlocale(LC_TIME, 'vn_VN');
 date_default_timezone_set('Asia/Ho_Chi_Minh');
